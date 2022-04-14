@@ -1,0 +1,1 @@
+## This folder will store the file generated as a temporal database.
